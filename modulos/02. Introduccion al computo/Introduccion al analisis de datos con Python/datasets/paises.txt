@@ -1,0 +1,9 @@
+Ciudad, Latitud, Longitud
+# Este es un comentario mayu
+CDMX, 19.4284706, -99.12127662
+Bombay, 19.0728302, 72.8826065
+España, -4.000000, 40.00000000
+Grecias, 22.00000, 39. 000000
+Islas Malvinas, -59.00000, -51.750000
+
+# Datos obtenidos del sitio web atipodas.net
