@@ -1,6 +1,6 @@
 # Introducción al Computo Científico
 
-**IPYTHON**
+## **IPYTHON**
 
 Nos permite interactuar de manera sencilla con el interprete de python.
 
@@ -12,26 +12,7 @@ Pasos para entrar a IPYTHON:
 Salir de IPYTHON:
 > quit
 
-Notion compañero Harold: [Link](https://scandalous-base-e4b.notion.site/Clase-pr-ctica-de-Pandas-7c5908d4fd9e4246b420e891b67047f5)
-
-Crear tu entorno de python: 
-[Link_comandos](https://gist.github.com/MayumyCH/8641ce303572488239692db3a07f2334)
-
-[Diferencia de ravel y flatten !](https://frankgalandev.com/diferencias-entre-flatten-y-ravel-en-python/)
-
-[Documentación pandas query](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.query.html)
-
-[Ejemplos pandas query](https://www.sharpsightlabs.com/blog/pandas-query/)
-
-[Repo prof Eduardo - Clase teoria](https://github.com/codigofacilito/pandas-python)
-
-[Link del .gitignore para python](https://github.com/github/gitignore/blob/master/Python.gitignore)
-
-[Link de la DATA - Clase practica (USERS.CSV)](https://gist.github.com/eduardogpg/9a0e348884bf8b5e60db013a0429a59d)
-
----
-
-### Comandos importantes:
+## Comandos importantes:
 
 - Cuanto tiempo tomo en ejecutarse esa funcion 
   > time name_function()
@@ -53,3 +34,14 @@ Crear tu entorno de python:
 
 - Solo agregar esas filas 24 y 26
   > %save -a nameFile.py 24 26
+
+## Link importantes
+- [Repo prof Eduardo - Clase teoria](https://github.com/codigofacilito/pandas-python)
+- Notion compañero Harold: [Link](https://scandalous-base-e4b.notion.site/Clase-pr-ctica-de-Pandas-7c5908d4fd9e4246b420e891b67047f5)
+- [Comando para crear entorno de python](https://gist.github.com/MayumyCH/8641ce303572488239692db3a07f2334)
+- [Link del .gitignore para python](https://github.com/github/gitignore/blob/master/Python.gitignore)
+- [Link de la DATA - Clase practica (USERS.CSV)](https://gist.github.com/eduardogpg/9a0e348884bf8b5e60db013a0429a59d)
+---
+- [Diferencia de ravel y flatten !](https://frankgalandev.com/diferencias-entre-flatten-y-ravel-en-python/)
+- [Documentación pandas query](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.query.html)
+- [Ejemplos pandas query](https://www.sharpsightlabs.com/blog/pandas-query/)
