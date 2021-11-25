@@ -29,7 +29,6 @@ Crear tu entorno de python:
 
 [Link de la DATA - Clase practica (USERS.CSV)](https://gist.github.com/eduardogpg/9a0e348884bf8b5e60db013a0429a59d)
 
-
 ---
 
 ### Comandos importantes:
