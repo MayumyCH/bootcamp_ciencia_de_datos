@@ -38,6 +38,7 @@ Salir de IPYTHON:
 ## Link importantes
 - [Repo prof Eduardo - Clase teoria](https://github.com/codigofacilito/pandas-python)
 - Notion compañero Harold: [Link](https://scandalous-base-e4b.notion.site/Clase-pr-ctica-de-Pandas-7c5908d4fd9e4246b420e891b67047f5)
+- [Repo companera](https://github.com/dchaconoca/bc-data-science/blob/master/Numpy%20y%20Pandas/Ejercicios_numpy_pandas.ipynb)
 - [Comando para crear entorno de python](https://gist.github.com/MayumyCH/8641ce303572488239692db3a07f2334)
 - [Link del .gitignore para python](https://github.com/github/gitignore/blob/master/Python.gitignore)
 - [Link de la DATA - Clase practica (USERS.CSV)](https://gist.github.com/eduardogpg/9a0e348884bf8b5e60db013a0429a59d)
@@ -45,3 +46,5 @@ Salir de IPYTHON:
 - [Diferencia de ravel y flatten !](https://frankgalandev.com/diferencias-entre-flatten-y-ravel-en-python/)
 - [Documentación pandas query](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.query.html)
 - [Ejemplos pandas query](https://www.sharpsightlabs.com/blog/pandas-query/)
+
+- [Link de los ejercicios-ciencia-datos Eduardo](https://github.com/codigofacilito/ejercicios-ciencia-datos)
