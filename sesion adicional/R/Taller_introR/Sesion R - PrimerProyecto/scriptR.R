@@ -1,0 +1,19 @@
+## INSTALAR DEPENDENCIAS EN LA CONSOLA
+# install.packages("ggplot2")
+#install.packages("tidyverse") # Parecida a Pandas
+
+library(ggplot2) # LLamar al paquete
+
+library(readr)
+
+ruta = "C:/Users/Mayu/0. Anaconda/bootcamp_especialidad_ciencia_de_datos/sesion adicional/R/dataset/Ventas_Celulares.csv"
+Ventas_Celulares <- read_csv(ruta)
+View(Ventas_Celulares)
+
+getwd() # Donde estoy posicionada
+
+setwd("C:/Users/Mayu/0. Anaconda/bootcamp_especialidad_ciencia_de_datos/sesion adicional/R/dataset") 
+getwd() # Donde estoy posicionada
+
+setwd("C:/Users/Mayu/Documents") 
+getwd() # Donde estoy posicionada
